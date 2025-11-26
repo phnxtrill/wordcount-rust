@@ -1,5 +1,11 @@
 ## Projet TP : `wc` en Rust
 
+### Groupe
+
+- RETORY Quentin
+- HARROW Jean-Michel
+- GUSTAVE Andy
+
 Petit projet de TP qui réimplémente une version simplifiée de la commande Unix `wc` (word count) en Rust.
 
 Le programme peut compter :
